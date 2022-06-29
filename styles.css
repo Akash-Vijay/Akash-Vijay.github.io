@@ -25,9 +25,9 @@ body {
 }
 
 .intro-pic {
-  height: 25rem;
+
+  width: 15rem;
   position: relative;
-  left: 10px;
 }
 
 .about {
