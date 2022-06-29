@@ -16,16 +16,8 @@ body {
   border-radius: 25px;
 }
 
-.about-section {
-  background-color: rgba(84, 206, 255, .05);
-  height: 22rem;
-  margin-top: 0px;
-  border-radius: 25px;
-  margin-bottom: 50px;
-}
-
 .intro-pic {
-
+  height: 22rem;
   width: 15rem;
   position: relative;
   padding: 0%;
